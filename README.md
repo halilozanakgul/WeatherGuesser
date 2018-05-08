@@ -1,5 +1,8 @@
 # WeatherGuesser
 This is a project I started for learning machine learning better.
 
-In this project I will create a software that guesses the weather of a city
-based on the data of its and its neighbor cities' previous weathers
+WeatherGuesser is a software that guesses the temperature for a city given thr last five days temperature
+The code learns from the past temperature data of that city
+
+In the future neighbor cities and weather will be added
+
